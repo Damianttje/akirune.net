@@ -1,6 +1,5 @@
+![Halloween](https://github.com/user-attachments/assets/01d70966-9731-4d87-96f8-2e29521e8cac)
 <div align="center">
-  <img src="https://files.catbox.moe/gha1y5.png" alt="Akirune Banner" width="100%">
-
   # 🌟 Akirune: Your Gateway to Hassle-Free Anime Streaming 🌟
 
   [![Website](https://img.shields.io/badge/Website-Akirune.com-blue?style=for-the-badge)](https://akirune.com)
